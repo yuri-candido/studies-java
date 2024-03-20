@@ -3,16 +3,15 @@ package src.vectors.exercise01;
 import java.util.Arrays;
 import java.util.Scanner;
 
+// exercise to sort arrays
 
 public class Main {
     public static void main(String[] args)   {
 
         int counter = 0;
-
         Scanner scanner = new Scanner(System.in);
         String names[] = new String[5];
         int numbers[] = new int[5];
-
 
         for (String name : names) {
 
@@ -39,13 +38,9 @@ public class Main {
         Arrays.sort(names);
         Arrays.sort(numbers);
 
-        for (String name : names) {
-            System.out.println(name);
-        }
+        System.out.println(Arrays.toString(names));
+        System.out.println(Arrays.toString(numbers));
 
-        for(int number : numbers){
-            System.out.println(number);
-        }
 
     }
 
