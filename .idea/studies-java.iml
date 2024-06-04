@@ -7,5 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="zulu17.50.19-ca-jre17.0" level="project" />
   </component>
 </module>
