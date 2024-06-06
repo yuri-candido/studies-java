@@ -1,7 +1,7 @@
-package src.polymorphism.application;
+package src.polymorphism.polymorphism1.application;
 
-import src.polymorphism.entities.Employee;
-import src.polymorphism.entities.OutsourcedEmployee;
+import src.polymorphism.polymorphism1.entities.Employee;
+import src.polymorphism.polymorphism1.entities.OutsourcedEmployee;
 
 import java.util.ArrayList;
 import java.util.List;

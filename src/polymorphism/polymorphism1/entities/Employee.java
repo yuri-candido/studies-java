@@ -1,4 +1,4 @@
-package src.polymorphism.entities;
+package src.polymorphism.polymorphism1.entities;
 
 public class Employee {
 
